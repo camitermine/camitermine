@@ -1,1 +1,1 @@
-[![MasterHead](https://imgur.com/a/DkkLxBc)](https://github.com/camitermine)
+[![MasterHead](https://i.imgur.com/wPSaJ0S.png)](https://github.com/camitermine)
