@@ -12,4 +12,11 @@ Feel free to explore my projects and connect with me!</p></div>
 
 
 
-<div><h1>Skills & Abilities 💻\^o^/</h1></div>
+<div><h1>Skills & Abilities 💻\^o^/</h1>
+<p><lorem></lorem></p>
+
+
+
+
+
+</div>
