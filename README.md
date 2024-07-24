@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/MdhnHNa.png)](https://github.com/camitermine)
 
-<div><h1>About Me 🌸(●'◡'●)</h1>
+<div><h1 align = center>About Me 🌸(●'◡'●)</h1>
 
 <p>I am a passionate video game enthusiast from Argentina with a background in video game development using Unity. I specialize in creating immersive menus and HUDs that enhance the gaming experience. Additionally, I have experience in augmented reality, having developed various filters using Meta Spark.
 
