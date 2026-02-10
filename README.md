@@ -1,8 +1,8 @@
-[![MasterHead](https://i.imgur.com/MdhnHNa.png)](https://github.com/camitermine)
+<img width="3780" height="1890" alt="Hi, im Camila 🌸" src="https://github.com/user-attachments/assets/2c63aa2e-8360-4c35-9f95-d918c8e15830" />
 
 <div><h1 align = center>About Me 🌸(●'◡'●)</h1>
 
-<p>I am a Junior Game Developer from Argentina, currently working on **Goblin Cleanup**, a commercial game developed in **Unity**.
+<p>I am a Junior Game Developer from Argentina, currently working on Goblin Cleanup, a commercial game developed in **Unity**.
 
 My day-to-day work focuses on **gameplay programming**, with a strong emphasis on systems, interactions, and **persistence (Save & Load)** in both singleplayer and multiplayer contexts. I work extensively with **Unity, C#**, and networked gameplay, collaborating closely with designers, QA, and other developers to deliver stable features and fixes.
 
@@ -22,3 +22,4 @@ I also have experience with **web development and UX/UI**, and earlier in my car
 
 
 </div>
+
