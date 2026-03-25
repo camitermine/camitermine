@@ -2,15 +2,22 @@
 
 <div><h1 align = center>About Me 🌸(●'◡'●)</h1>
 
-<p>I am a Junior Game Developer from Argentina, currently working on Goblin Cleanup, a commercial game developed in **Unity**.
+<p>I am a Junior Game Developer from Argentina, currently working on Goblin Cleanup, a commercial game developed in Unity.
 
-My day-to-day work focuses on **gameplay programming**, with a strong emphasis on systems, interactions, and **persistence (Save & Load)** in both singleplayer and multiplayer contexts. I work extensively with **Unity, C#**, and networked gameplay, collaborating closely with designers, QA, and other developers to deliver stable features and fixes.
+🛠 What I’m doing now
+My day-to-day work focuses on gameplay programming, with a strong emphasis on systems, interactions, and persistence (Save & Load) in both singleplayer and multiplayer contexts. I work extensively with Unity, C#, and networked gameplay, collaborating closely with designers, QA, and other developers to deliver stable features and fixes.
 
-Before transitioning fully into game development, I worked for over a year as a **Java developer**, building enterprise applications and backend systems. That experience gave me a solid foundation in **object-oriented programming, clean code, and maintainable architectures**, which I actively apply to my game development work.
+🔙 My Background
+Java Developer: Before transitioning fully into game development, I worked for over a year building enterprise applications and backend systems. This gave me a solid foundation in OOP, clean code, and maintainable architectures, which I actively apply to my game development work.
 
-Beyond games, I have a strong interest in **data science and machine learning**. You’ll find projects here related to **neural networks**, built from scratch as part of my academic and personal exploration of the field. I enjoy understanding how systems work under the hood, whether it’s gameplay mechanics or learning algorithms.
+UX/UI & Front End: I have specialized in creating intuitive interfaces and engaging user experiences. My knowledge of Front End development allows me to bridge the gap between design and implementation, ensuring that systems are not only functional but also user-friendly.
 
-I also have experience with **web development and UX/UI**, and earlier in my career I worked with **augmented reality**, developing filters using Meta Spark.
+🚀 Technical Skills
+Game Dev: Unity, C#, Multiplayer (Fishnet), Gameplay Systems.
+
+Backend: Java, Spring Boot, Hibernate, Struts 2, MySQL.
+
+Frontend & Design: React, Angular, Figma, UX/UI Design.
 
 </p></div>
 
