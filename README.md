@@ -4,15 +4,18 @@
 
 <p>I am a Junior Game Developer from Argentina, currently working on Goblin Cleanup, a commercial game developed in Unity.
 
-🛠 What I’m doing now
+<h2>🛠 What I’m doing now</h2>
+
 My day-to-day work focuses on gameplay programming, with a strong emphasis on systems, interactions, and persistence (Save & Load) in both singleplayer and multiplayer contexts. I work extensively with Unity, C#, and networked gameplay, collaborating closely with designers, QA, and other developers to deliver stable features and fixes.
 
-🔙 My Background
+<h2>🔙 My Background</h2>
+
 Java Developer: Before transitioning fully into game development, I worked for over a year building enterprise applications and backend systems. This gave me a solid foundation in OOP, clean code, and maintainable architectures, which I actively apply to my game development work.
 
 UX/UI & Front End: I have specialized in creating intuitive interfaces and engaging user experiences. My knowledge of Front End development allows me to bridge the gap between design and implementation, ensuring that systems are not only functional but also user-friendly.
 
-🚀 Technical Skills
+<h2>🚀 Technical Skills</h2>
+
 Game Dev: Unity, C#, Multiplayer (Fishnet), Gameplay Systems.
 
 Backend: Java, Spring Boot, Hibernate, Struts 2, MySQL.
