@@ -6,7 +6,7 @@
 
 <h2>🛠 What I’m doing now</h2>
 
-My day-to-day work focuses on gameplay programming, with a strong emphasis on systems, interactions, and persistence (Save & Load) in both singleplayer and multiplayer contexts. I work extensively with Unity, C#, and networked gameplay, collaborating closely with designers, QA, and other developers to deliver stable features and fixes.
+My day-to-day work focuses on gameplay programming, with a strong emphasis on systems, interactions, and persistence in both singleplayer and multiplayer contexts. I work extensively with Unity, C#, and networked gameplay, collaborating closely with designers, QA, and other developers to deliver stable features and fixes.
 
 <h2>🔙 My Background</h2>
 
