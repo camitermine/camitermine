@@ -1,4 +1,4 @@
-<img width="3780" height="1890" alt="Hi, im Camila 🌸" src="https://github.com/user-attachments/assets/3be7f72d-a241-4b50-831e-8781fba60984" />
+<img width="2730" height="1536" alt="Hi, im Camila 🌸" src="https://github.com/user-attachments/assets/39a4555d-d6f9-4630-a2ad-f831c08388d7" />
 
 <div><h1 align = center>About Me 🌸(●'◡'●)</h1>
 
