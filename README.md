@@ -2,7 +2,7 @@
 
 <div><h1 align = center>About Me 🌸(●'◡'●)</h1>
 
-<p>I am a Junior Game Developer from Argentina, currently working on Goblin Cleanup, a commercial game developed in Unity.
+<p>I am a Game Developer from Argentina, currently working on Goblin Cleanup, a commercial game developed in Unity.
 
 <h2>🛠 What I’m doing now</h2>
 
