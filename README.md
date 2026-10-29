@@ -1,34 +1,72 @@
-<img width="2730" height="1536" alt="Hi, im Camila 🌸" src="https://github.com/user-attachments/assets/39a4555d-d6f9-4630-a2ad-f831c08388d7" />
+<img width="100%" alt="Hi, I'm Camila 🌸 Backend Software Engineer" src="assets/banner.png" />
 
-<div><h1 align = center>About Me 🌸(●'◡'●)</h1>
+<h1 align="center">Hi, I'm Camila 🌸(●'◡'●)</h1>
 
-<p>I am a Game Developer from Argentina, currently working on Goblin Cleanup, a commercial game developed in Unity.
+<p align="center">
+  <b>Backend Software Engineer</b> from Buenos Aires, Argentina · Java, Spring Boot, Kotlin and GenAI
+  <br><br>
+  <a href="https://camitermine.github.io"><b>🌐 Portfolio</b></a> ·
+  <a href="https://camitermine.github.io/room.html"><b>🎮 Playable portfolio</b></a> ·
+  <a href="https://www.linkedin.com/in/camila-termine"><b>💼 LinkedIn</b></a> ·
+  <a href="mailto:camila.termine@gmail.com"><b>✉️ Email</b></a>
+</p>
 
-<h2>🛠 What I’m doing now</h2>
+I build backends and client-server systems. I've written Java modules for a national HR system with more than 30,000 users, and today I design the persistence and state sync of a multiplayer game published by Team17 on Steam. I use GenAI across the whole development cycle, always with human review.
 
-My day-to-day work focuses on gameplay programming, with a strong emphasis on systems, interactions, and persistence in both singleplayer and multiplayer contexts. I work extensively with Unity, C#, and networked gameplay, collaborating closely with designers, QA, and other developers to deliver stable features and fixes.
+I'm looking for **Java or Kotlin backend roles** and **GenAI integration** work. Happy to talk in English or Spanish.
 
-<h2>🔙 My Background</h2>
+<h2>🛠 What I'm doing now</h2>
 
-Java Developer: Before transitioning fully into game development, I worked for over a year building enterprise applications and backend systems. This gave me a solid foundation in OOP, clean code, and maintainable architectures, which I actively apply to my game development work.
+**Software Engineer at [Crisalu Games](https://store.steampowered.com/app/2748340/Goblin_Cleanup/)** (Aug 2025 – now)
 
-UX/UI & Front End: I have specialized in creating intuitive interfaces and engaging user experiences. My knowledge of Front End development allows me to bridge the gap between design and implementation, ensuring that systems are not only functional but also user-friendly.
+- Designed from scratch the save and restore system for multiplayer sessions: serialization, checkpoints and rebuilding entities from the host's authoritative state, compatible across game versions.
+- Cut reported desync bugs by **70%** by tracking down race conditions in real-time client-server state sync.
+- Integrated Claude Code with Unity through the Model Context Protocol and built custom agents that review code before every pull request.
 
-<h2>🚀 Technical Skills</h2>
+<h2>🔙 Before that</h2>
 
-Game Dev: Unity, C#, Multiplayer (Fishnet), Gameplay Systems.
+**Java Backend Developer at CONICET** (Sep 2024 – Oct 2025). Spring Boot and Hibernate modules for SIGERH, a national HR system: optimized SQL on a MySQL schema of more than 300 tables, built PDF reports with JasperReports, integrated external services and fixed production incidents every week.
 
-Backend: Java, Spring Boot, Hibernate, Struts 2, MySQL.
+Before coding, I spent more than ten years managing the archive of **CONICET Documental**: over 300 TB of footage for more than 35 documentaries, with zero data loss. That's where my obsession with never losing data comes from.
 
-Frontend & Design: React, Angular, Figma, UX/UI Design.
+<h2>🚀 Featured projects</h2>
 
-</p></div>
+| Project | What it is | Stack |
+|---|---|---|
+| [**Steam Review Insights**](https://github.com/camitermine/steam-review-insights) | Spring Boot REST API that classifies 2,367 Steam reviews with Claude into bugs, feature requests, praise and other, across 24 languages. Weekly n8n summary to Discord. | Java 21, Spring Boot, PostgreSQL, Flyway, Testcontainers, Claude API |
+| [**Tic-Tac-Fade**](https://github.com/camitermine/tic-tac-fade) | Multiplayer tactical tic-tac-toe built with Claude Code and the Unity MCP. Pure C# domain module with 33 unit tests and ADRs. | C#, Unity, Claude Code, MCP |
+| [**Pasaporte BA**](https://github.com/camitermine/Pasaporte-BA) | Check-in app for Buenos Aires. FastAPI backend whose persistence switches between MySQL and HBase per request (Repository + Factory). | Python, FastAPI, MySQL, HBase, Docker |
+| [**Xpace**](https://github.com/camitermine/xpace) | Space expedition manager with a mission state machine and Strategy, Observer and Command patterns. CI and reviewed PRs. | Kotlin, Gradle, GitHub Actions |
 
+<h2>💻 Tech stack \^o^/</h2>
 
+**Backend**<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<div><h1 align = center>Technology stack💻\^o^/</h1>
+**Databases**<br>
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Flyway](https://img.shields.io/badge/flyway-%23CC0200.svg?style=for-the-badge&logo=flyway&logoColor=white)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+**GenAI**<br>
+![Claude](https://img.shields.io/badge/claude%20api-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/mcp-%23000000.svg?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
-</div>
+**Testing & DevOps**<br>
+![JUnit5](https://img.shields.io/badge/junit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
+**Frontend & client-server**<br>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![C#](https://img.shields.io/badge/c%23-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
