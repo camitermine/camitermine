@@ -34,6 +34,7 @@ Before coding, I spent more than ten years managing the archive of **CONICET Doc
 | Project | What it is | Stack |
 |---|---|---|
 | [**Steam Review Insights**](https://github.com/camitermine/steam-review-insights) | Spring Boot REST API that classifies 2,367 Steam reviews with Claude into bugs, feature requests, praise and other, across 24 languages. Weekly n8n summary to Discord. | Java 21, Spring Boot, PostgreSQL, Flyway, Testcontainers, Claude API |
+| [**Salas de Estudio**](https://github.com/camitermine/salas-de-estudio) | RAG study assistant (in progress): each subject is a room with its own PDFs, and the chat answers only from those notes, citing document and page. Local embeddings, pgvector search filtered by room, Claude Haiku with Gemini fallback. | Python, FastAPI, PostgreSQL + pgvector, React, TypeScript, Claude API |
 | [**Tic-Tac-Fade**](https://github.com/camitermine/tic-tac-fade) | Multiplayer tactical tic-tac-toe built with Claude Code and the Unity MCP. Pure C# domain module with 33 unit tests and ADRs. | C#, Unity, Claude Code, MCP |
 | [**Pasaporte BA**](https://github.com/camitermine/Pasaporte-BA) | Check-in app for Buenos Aires. FastAPI backend whose persistence switches between MySQL and HBase per request (Repository + Factory). | Python, FastAPI, MySQL, HBase, Docker |
 | [**Xpace**](https://github.com/camitermine/xpace) | Space expedition manager with a mission state machine and Strategy, Observer and Command patterns. CI and reviewed PRs. | Kotlin, Gradle, GitHub Actions |
@@ -56,6 +57,7 @@ Before coding, I spent more than ten years managing the archive of **CONICET Doc
 **GenAI**<br>
 ![Claude](https://img.shields.io/badge/claude%20api-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/mcp-%23000000.svg?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![RAG](https://img.shields.io/badge/rag-%236E56CF.svg?style=for-the-badge&logo=googledocs&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 **Testing & DevOps**<br>
